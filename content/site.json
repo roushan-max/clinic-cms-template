@@ -1,30 +1,16 @@
 {
-  "clinicName": "SmileNest Dental Clinic",
-  "tagline": "Healthy Smiles for Every Family",
-  "phone": "+91 9876543210",
-  "email": "contact@smilenest.com",
-  "whatsapp": "+91 9876543210",
-  "address": "Ranchi, Jharkhand",
   "heroImage": "images/hero.jpg",
   "aboutTitle": "About Our Clinic",
+  "phone": "+91 9876543210",
+  "tagline": "Healthy Smiles for Every Family",
   "aboutDescription": "We provide modern dental care with experienced doctors and advanced equipment.",
-  "video": "videos/intro.mp4",
-
-  "services": [
-    {
-      "title": "Dental Cleaning",
-      "description": "Professional teeth cleaning."
-    },
-    {
-      "title": "Root Canal",
-      "description": "Painless root canal treatment."
-    },
-    {
-      "title": "Braces",
-      "description": "Modern orthodontic solutions."
-    }
+  "whatsapp": "+91 9876543210",
+  "gallery": [
+    "images/gallery1.jpg",
+    "images/gallery2.jpg",
+    "images/gallery3.jpg"
   ],
-
+  "clinicName": "Roushan Dental Clinic",
   "doctors": [
     {
       "name": "Dr. Amit Kumar",
@@ -39,13 +25,6 @@
       "photo": "images/doctor2.jpg"
     }
   ],
-
-  "gallery": [
-    "images/gallery1.jpg",
-    "images/gallery2.jpg",
-    "images/gallery3.jpg"
-  ],
-
   "testimonials": [
     {
       "name": "Rahul",
@@ -54,6 +33,23 @@
     {
       "name": "Neha",
       "review": "Highly recommended clinic."
+    }
+  ],
+  "address": "Ranchi, Jharkhand",
+  "video": "videos/intro.mp4",
+  "email": "contact@smilenest.com",
+  "services": [
+    {
+      "title": "Dental Cleaning",
+      "description": "Professional teeth cleaning."
+    },
+    {
+      "title": "Root Canal",
+      "description": "Painless root canal treatment."
+    },
+    {
+      "title": "Braces",
+      "description": "Modern orthodontic solutions."
     }
   ]
 }
