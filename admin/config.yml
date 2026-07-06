@@ -2,7 +2,8 @@ backend:
   name: github
   repo: roushan-max/clinic-cms-template
   branch: main
-  base_url: https://auth.decapbridge.com
+  base_url: https://netlify-cms-github-oauth-provider-9qjw.onrender.com
+  auth_endpoint: auth
 
 media_folder: "images"
 public_folder: "/images"
